@@ -12,9 +12,9 @@
       <h1>Kate Biernat</h1>
       <nav>
         <ul>
-          <li><a id="about-me">About Me</a></li>
-          <li>Work</li>
-          <li>Contact</li>
+          <li><a id="about-me"> About Me </a></li>
+          <li> Work </li>
+          <li> Contact </li>
         </ul>
       </nav>
     </header>
@@ -27,27 +27,8 @@
         </p>
       </section>
       <section class="row">
-        <h2>Work & Projects</h2>
-        <div class="column">
-          <div class="card-large one">
-            <h3>Project 1</h3>
-          </div>
-          <div class="row">
-            <div class="card two">
-              <h3>Project 2</h3>
-            </div>
-            <div class="card three">
-              <h3>Project 3</h3>
-            </div>
-          </div>
-          <div class="row">
-            <div class="card four">
-              <h3>Project 4</h3>
-            </div>
-            <div class="card five">
-              <h3>Project 5</h3>
-            </div>
-          </div>
+        <h2 id="Work">Work & Projects</h2>
+        <p>
           <div class="column">
             <div class="card-large card one">
               <h3>Project 1</h3>
@@ -70,17 +51,28 @@
             </div>
           </div>
         </div>
+        </p>
       </section>
     </main>
     <footer>
       <section class="row">
         <h2>Contact Me</h2>
-        <p>
-          ipsum Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Molestias, sunt similique qui architecto veniam quo accusamus magnam
-          voluptas voluptates odio ex eveniet neque id eligendi facilis. Ipsum
-          rem quia ullam?
-        </p>
+        <form>
+          <ul>
+            <li>Name <input
+              name="First and  Last Name"
+              id= "First and Last Name"
+              type="text"
+              plaseholder= "First Last">  
+            </li>
+            <li>Email</li>
+            <li> <label for="comment"> Tell me why you're reaching out! </label> <textarea id="comment" placeholder="I want to get inquire about Kate developing my website!"></textarea></li>
+          </ul>
+          <input class="checkbox" id="agreement" type="checkbox"/>
+          <label for="agreement">I agree to share my email with Kate so that she can get in touch with me per my request. 
+        </label>
+        </form>
+        
       </section>
     </footer>
   </body>
