@@ -2,7 +2,7 @@
 Kate Biernat's Portfolio of Work from February 2021 - May 2021
 
 ## Portfolio URL
-Kate's Portfolio Website can be found at 
+Kate's Portfolio Website can be found at https://kebiernat5.github.io/Kate-Biernat-Portfolio/
 
 ## User Story
 
@@ -54,6 +54,9 @@ Link Code
 
 ## Contact Me Card
 
-I created a contact form in my HTML file which includes ways to get in touch with me and a link to my GitHub account which will lead to further materials that might not have made it to my portfolio page. I also was able to add a fun action label/pseudo class for a bit of text to pop up when a check box is actively engaged.
+I created a contact form in my HTML file which includes ways to get in touch with me and a link to my GitHub account which will lead to further materials that might not have made it to my portfolio page. I also was able to add a fun action label/pseudo class for a bit of text to pop up when a check box is actively engaged. I also specified how big the final text box was and its placement in the list of ways to get in touch or view my materials.
 
 ![Screen Shot](./assets/images/Header/EndOfPage.png)
+Contact Card and Footer View
+
+
