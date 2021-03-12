@@ -17,7 +17,7 @@ As a prospective job candidate, I would like to have a corner of the internet wh
 ![Screen Shot](./assets/images/Header/AboutMeScreenShot.png)
 Wide View Header Display
 
-When creating my portfolio application I wanted to create a Header featuring my name and a nav bar that links to elements further down in the main section on my page along with a recent photograph of myself that made me appear to be friendly and approachable. I was able to accomplish this using HTML <  h1 > < link >, < nav >, and < list > tags. The photograph was inserted using a backsplash image style in my CSS sheet. To make all of these elements appear to be on the same line in the heading bar, I styled them into flex boxes and tinkered around with margins and padding until I got it all looking just right. I then styled the links in the style sheet to not noticably transform when clicked to maintain the visual integrity of the page. I also set up a slightly transparent sticky header by using a fixed position in the style sheet so that no matter where you scrolled, you would always be able to click on a different link to get to a different section of the page. 
+When creating my portfolio application I wanted to create a Header featuring my name and a nav bar that links to elements further down in the main section on my page along with a recent photograph of myself that made me appear to be friendly and approachable. I was able to accomplish this using HTML <  h1 > < link >, < nav >, and < list > tags. The photograph was inserted using a backsplash image style in my CSS sheet. To make all of these elements appear to be on the same line in the heading bar, I styled them into flex boxes and tinkered around with margins and padding until I got it all looking just right. I then styled the links in the style sheet to not noticably transform when clicked to maintain the visual integrity of the page. I also set up a slightly transparent sticky header by using a fixed position in the style sheet so that no matter where you scrolled, you would always be able to click on a different link to get to a different section of the page. The "About Me" section was created using classes and flex boxes.
 
 
 ![Screen Shot](./assets/images/Header/header.png)
@@ -26,7 +26,8 @@ Header Display Preview
 ![Screen Shot](./assets/images/Header/headercsstext1.png)![Screen Shot](./assets/images/Header/headercsstext2.png)
 Code View
 
-The "About Me" section was created using classes and flex boxes.
+
+
 
 ### Projects and Work | Links and Cards
 
@@ -34,6 +35,8 @@ This section of the page was the most challenging to format. I created one all e
 
 ![Screen Shot](./assets/images/Header/cardstyles1.png)
 ![Screen Shot](./assets/images/Header/cardstyles2.png)
+Code View  
+
 
 #### Links
 
@@ -59,4 +62,7 @@ I created a contact form in my HTML file which includes ways to get in touch wit
 ![Screen Shot](./assets/images/Header/EndOfPage.png)
 Contact Card and Footer View
 
+
+### Extraneous notes
+At the bottom of the CSS file is a code graveyard of code that was useful at some point and changed or deemed extraneous. 
 
