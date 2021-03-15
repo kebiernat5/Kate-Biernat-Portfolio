@@ -156,7 +156,7 @@
     background-image: url("https://64.media.tumblr.com/a89e5ef2d5f01ca1fe158d3de9992269/a52deced0a2f5a1a-46/s1280x1920/542a75f552097c2ed5d6f3f5c65fa5c02ebfa0d6.jpg");
     display: flex;
     height: 500px;
-    width: 100%;
+    width: auto;
   }
 
   .container {
