@@ -64,6 +64,7 @@
     border-left-color:rgb(25, 26, 24);
   }
   .card {
+    display: flex;
     height: 200px;
     width: 300px;
     margin: 25px;
@@ -111,7 +112,7 @@
     margin-left: 15px;
   }
   .one {
-    background-image: url("https://64.media.tumblr.com/d1c72a2080a7d9409ce120833f5cd647/f870fa7620c43ef9-6d/s540x810/ca48475eb826f4e48e67d4ad89e7ff0b8603e85c.png");
+    background-image: url("https://64.media.tumblr.com/e8c7bed12d76fd70e08fc738cb0c9615/968645b8517964cd-44/s540x810/abb23408238f33c76fca3255bbcd3032833c2d3f.png");
     background-color: none;
     background-size: cover;
     display: flex;
@@ -121,23 +122,25 @@
   }
 
   .two {
-    background-image: url("https://64.media.tumblr.com/26d656752b0bfde4b876ba5950ae862f/6804661cc480282c-fa/s540x810/eeecae2d9b4ff53703bd992a26bf333e8c82d28f.png");
+    background-image: url("https://64.media.tumblr.com/65ca5884a0de6c16e8c930991796d443/af20f97889a3fe76-63/s540x810/a8acd47c3382c7f2e761d20f04a84670100f1f4a.png");
     background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
   }
+
   .three {
-    background-image: url("https://64.media.tumblr.com/797c3888ce3eb430aefd44326dd80a41/5b4c105a8ddca5de-d1/s540x810/09232ae3d8ea59106c287a99903c48dd81bfff6a.png");
+    background-image: url("https://64.media.tumblr.com/00cd172e4848cd0462f53acc4a2c99a7/0721bf3e3f8f9673-8c/s540x810/33df34cfeaf1bf439e639dae192ec6641e579403.png");
     background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
   }
+
   .four {
-    background-image: url("https://64.media.tumblr.com/a148d8093af1e8d46074ab7f54737bef/0daee8e1f66f8494-35/s540x810/feb513196660ab0199200e1d0829c2cee30fa735.png");
+    background-image: url("https://64.media.tumblr.com/d1c72a2080a7d9409ce120833f5cd647/f870fa7620c43ef9-6d/s540x810/ca48475eb826f4e48e67d4ad89e7ff0b8603e85c.png");
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -145,6 +148,22 @@
     align-items: center;
   }
   .five {
+    background-image: url("https://64.media.tumblr.com/797c3888ce3eb430aefd44326dd80a41/5b4c105a8ddca5de-d1/s540x810/09232ae3d8ea59106c287a99903c48dd81bfff6a.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .six {
+    background-image: url("https://64.media.tumblr.com/a148d8093af1e8d46074ab7f54737bef/0daee8e1f66f8494-35/s540x810/feb513196660ab0199200e1d0829c2cee30fa735.png");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  .seven {
     background-image: url("https://64.media.tumblr.com/b745376b07496a078a9c15efc972cc21/c4d87319e462f423-d8/s540x810/46e87778c2a473d622465ee43300f32901cae78a.png");
     background-size: cover;
     display: flex;
